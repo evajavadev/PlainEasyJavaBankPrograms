@@ -1,3 +1,3 @@
 # Plain Easy Java Bank Programs
 
-With GUI, transacions and deposits  📊
+With GUI, transactions and deposits  📊
